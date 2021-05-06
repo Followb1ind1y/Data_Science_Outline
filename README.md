@@ -1,4 +1,4 @@
-# Data Science ## Followblindly
+# Data Science
 
 ## 1. Tools for Data Science
 
