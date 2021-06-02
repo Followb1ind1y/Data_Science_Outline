@@ -1,6 +1,5 @@
 # 🎯 Data Science
 
-<br>
 
 ## 1. Tools for Data Science
 
