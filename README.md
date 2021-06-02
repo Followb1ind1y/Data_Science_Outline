@@ -1,6 +1,4 @@
-# Data Science
-
-All things data science: processes, best practices, setup guides, and more!
+# 🎯 Data Science
 
 ## 1. Tools for Data Science
 
