@@ -1,7 +1,5 @@
 # 🎯 Data Science
 
-All things data science: processes, best practices, setup guides, and more!
-
 ## 1. Tools for Data Science
 
 - **Languages of Data Science:** Python, R Language, Sql
