@@ -12,7 +12,7 @@
 
 # **Data Science Overview**
 
-## 1. Tools for Data Science
+### 1. Tools for Data Science
 
 - **Languages of Data Science:** Python, R Language, Sql
 - **Data Science Tools:** [GitHub](https://github.com/Followb1ind1y/Data_Science), [Markdown & LaTex](https://towardsdatascience.com/write-markdown-latex-in-the-jupyter-notebook-10985edb91fd)
