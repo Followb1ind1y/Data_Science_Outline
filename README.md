@@ -26,7 +26,7 @@
 
 ### 3. Data Visualization
 
-- **Basic Visualization Tools:** [Visualization Tools(Matplotlib, Pandas, Seaborn)](https://github.com/Followb1ind1y/Data_Science_Outline/blob/main/Data_Visualization/01_Basic_Data_Visualization_Tools.ipynb): Area Plots, Histogram, Bar Charts, Pie Charts, Box Plots, Scatter Plots
+- **Basic Visualization Tools:** [Visualization Tools(Matplotlib, Pandas, Seaborn)](https://github.com/Followb1ind1y/Data_Science_Outline/blob/main/Data_Visualization/1_Basic_Data_Visualization_Tools/1_Basic_Data_Visualization_Tools.ipynb): Area Plots, Histogram, Bar Charts, Pie Charts, Box Plots, Scatter Plots
 - **Advanced Visualization Tools:** Waffle Charts, Word Clouds, Seaborn and Regression Plots, Maps and Visualizing Geospatial Data
 
 ### 4. Data Science Basics
